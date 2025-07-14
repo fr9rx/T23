@@ -1,0 +1,10 @@
+def Menu():
+    print("========================================")
+    print("              T23 TOOL KIT              ")
+    print("========================================")
+    print("[1] Nmap                                ")
+    print("[2] WireShark                           ")
+    print("[3] Ping                                ")
+    print("[4] TheHarvester")
+    print("[0] Exit                                ")
+    print("========================================")
